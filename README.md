@@ -1,18 +1,16 @@
 # HospitalManagement
 HospitalManagement
 
-<h3>IPD Management</h3>
-IPD module handles the patient admission to discharge journey effortlessly.
+<h2>IPD Management</h2>
+<p>IPD module handles the patient admission to discharge journey effortlessly.</p>
 
-Admission Discharge Transfer (ADT) Management
-Hospital Information Management System is designed for
-faster & efficient IP admission, transfer and discharge management.
+<h3>Admission Discharge Transfer (ADT) Management</h3>
+<p>Hospital Information Management System</a> is designed for<br>faster &amp; efficient IP admission, transfer and discharge management.</p>
+<h3 >Patient Daycare</h3>
+<p >Faster IP admissions, patient transfers, real-time bed management, and quick discharge</p>
+<h3>Operation Theater (OT) Management</h3>
+<p >Accelerate OT work-list &amp; transfer list, schedule surgery and efficiently take care of approvals.</p>
 
-Patient Daycare
-Faster IP admissions, patient transfers, real-time bed management, and quick discharge
-
-Operation Theater (OT) Management
-Accelerate OT work-list & transfer list, schedule surgery and efficiently take care of approvals.
 
 Cath Lab Management
 Hospital management Software helps you to manage Cath-lab schedule, work-list, transfers, etc.
