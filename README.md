@@ -1,6 +1,28 @@
 # HospitalManagement
 HospitalManagement
 
+<h2> Entity</h2>
+<ol>
+  <li>Employee</li>
+  <li>Doctor</li>
+  <li>Patient</li>
+  <li>Notification</li>
+  <li>Inventory</li>
+  <li>Billing</li>
+  <li>Facility</li>
+  <li>Feedback</li>
+  <li>Payment</li>
+  <li>Documentation</li>
+  <li>
+</ol>
+
+<h4>Refer link: </h4>
+<ol>
+<li>https://edrawmax.wondershare.com/database-tips/er-diagram-templates-for-hospital-management.html</li>
+<li>https://www.karexpert.com/saas/hospital-information-management-system/?utm_source=Website+%28Google+Ads%29&utm_medium=PPC+Google+Campaign&utm_campaign=Kw-+hospital+management+system-HIMS+Campaign&utm_id=Kw-+hospital+management+system-HIMS+Campaign&gad_source=1&gclid=Cj0KCQiAxOauBhCaARIsAEbUSQRHG7dJ7Xhgjr4cgh4tjpH2qfuzikY3dBBhxCUHi4k19mwXSx3Ng4IaAoGzEALw_wcB</li>
+</li>
+</ol>
+
 <h2>IPD Management</h2>
 <p>IPD module handles the patient admission to discharge journey effortlessly.</p>
 
