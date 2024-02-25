@@ -1,7 +1,7 @@
 # HospitalManagement
 HospitalManagement
 
-IPD Management
+<h3>IPD Management</h3>
 IPD module handles the patient admission to discharge journey effortlessly.
 
 Admission Discharge Transfer (ADT) Management
